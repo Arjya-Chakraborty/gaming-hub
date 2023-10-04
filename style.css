@@ -4,9 +4,19 @@
     background-color: black;
     color: white;
 }
-.bt{
-    background-color: teal;
-    border-radius: 5px;
+button {
+    padding: 10px 20px;
+    border-radius: 10px;
+    background-color: #F2C14E;
+    color: #333;
+    border-color:#F2C14E;
+    font-size: 18px;
+    transition: 200ms transform;
+    font-weight: 600;
+}
+button:hover {
+    cursor: pointer;
+    transform: translateY(-2px);
 }
 .footerImg{
     height: 10%;

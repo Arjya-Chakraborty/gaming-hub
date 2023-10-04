@@ -1,0 +1,13 @@
+*{
+    text-align: center;
+    background-color: black;
+    color: white;
+}
+.bt{
+    background-color: teal;
+    border-radius: 5px;
+}
+.footerImg{
+    height: 10%;
+    width: 10%;
+}
